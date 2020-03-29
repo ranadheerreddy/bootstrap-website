@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: docs
 title: Alerts
 description: Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.
@@ -115,4 +115,4 @@ Bootstrap's alert plugin exposes a few events for hooking into alert functionali
 $('#myAlert').on('closed.bs.alert', function () {
   // do something...
 })
-{% endhighlight %} -->
+{% endhighlight %}
